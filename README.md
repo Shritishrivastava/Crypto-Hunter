@@ -32,32 +32,31 @@ I wanted to create a platform where:
 📱 Responsive design for desktop and mobile
 
 ## 🛠 Tech Stack
-- React (Functional Components + Hooks)
 
-- Tailwind CSS for styling
-
-- CoinGecko API for market data
-
-- Chart.js / Recharts for interactive charts
-
-- Authentication via Clerk/Auth0/Firebase
+- **React.js** (Functional components + Hooks)
+- **Material UI** for modern and responsive UI components  
+- **CoinGecko** API for market data
+- Authentication via **Clerk**
+- **Pagination** for smooth navigation of large datasets  
+- **CSS** for custom styling 
 
 ## 🖥 How It Works
-🎥 Animated Previews
-1️⃣ Home Page – Live Market Overview
+
+### 1️⃣ Home Page – Live Market Overview
 Track top cryptocurrencies with real-time updates and elegant transitions.
 
-2️⃣ Search & Filter
+### 2️⃣ Search & Filter
 Type instantly, filter results dynamically — no page reloads needed.
 
-3️⃣ Coin Detail Page
+### 3️⃣ Coin Detail Page
 View detailed price history with interactive hover tooltips on the chart.
 
-4️⃣ Pagination
+### 4️⃣ Pagination
 Seamlessly browse 100+ cryptocurrencies without lag.
 
-5️⃣ Authentication & Watchlist
+### 5️⃣ Authentication & Watchlist
 Log in, save your favorite coins, and track them at a glance.
+
 
 
 
