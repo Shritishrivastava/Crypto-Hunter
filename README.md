@@ -6,15 +6,17 @@ Crypto Hunter — a real-time, interactive cryptocurrency tracker that puts ever
 ## 🎯 Why I Built This
 I wanted to create a platform where:
 
-You can search and filter coins instantly.
+- You can search and filter coins instantly.
 
-Prices update in real-time without refreshing.
+- Prices update in real-time without refreshing.
 
-You can view historical trends through interactive charts.
+- You can view historical trends through interactive charts.
 
-Even large datasets are easy to browse with smooth pagination.
+- Even large datasets are easy to browse with smooth pagination.
 
-Logged-in users can save watchlists for quick access.
+- Logged-in users can save watchlists for quick access.
+
+
 
 ## ✨ Features
 📈 Real-time price updates for 100+ cryptocurrencies
@@ -30,15 +32,15 @@ Logged-in users can save watchlists for quick access.
 📱 Responsive design for desktop and mobile
 
 ## 🛠 Tech Stack
-React (Functional Components + Hooks)
+- React (Functional Components + Hooks)
 
-Tailwind CSS for styling
+- Tailwind CSS for styling
 
-CoinGecko API for market data
+- CoinGecko API for market data
 
-Chart.js / Recharts for interactive charts
+- Chart.js / Recharts for interactive charts
 
-Authentication via Clerk/Auth0/Firebase
+- Authentication via Clerk/Auth0/Firebase
 
 ## 🖥 How It Works
 🎥 Animated Previews
@@ -56,6 +58,7 @@ Seamlessly browse 100+ cryptocurrencies without lag.
 
 5️⃣ Authentication & Watchlist
 Log in, save your favorite coins, and track them at a glance.
+
 
 
 
