@@ -1,7 +1,7 @@
 # 💹 Crypto Hunter – Your Real-Time Crypto Tracker
 Crypto markets never sleep and neither does Crypto Hunter. With real-time updates, interactive charts, and quick search, it’s your 24/7 window into the market.
 
-So, I decided to build Crypto Hunter — a real-time, interactive cryptocurrency tracker that puts everything in one place.Whether you’re a casual follower or an active trader, this tool gives you live prices, interactive charts, and search functionality for over 100 cryptocurrencies, all in a clean and intuitive interface.
+Crypto Hunter — a real-time, interactive cryptocurrency tracker that puts everything in one place.Whether you’re a casual follower or an active trader, this tool gives you live prices, interactive charts, and search functionality for over 100 cryptocurrencies, all in a clean and intuitive interface.
 
 ## 🎯 Why I Built This
 I wanted to create a platform where:
@@ -56,5 +56,6 @@ Seamlessly browse 100+ cryptocurrencies without lag.
 
 5️⃣ Authentication & Watchlist
 Log in, save your favorite coins, and track them at a glance.
+
 
 
